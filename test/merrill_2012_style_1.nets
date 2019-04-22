@@ -1,0 +1,400 @@
+UCLA nets 1.0
+
+# Created    : 2019-04-14 19:19:35.584028
+# Created by : Devon Merrill devon@ucsd.edu
+
+NumNets : 99
+NumPins : 293
+
+NetDegree : 8
+             S1   B :    -3.2512    -2.2606
+             S1   B :     3.2512    -2.2606
+          POWER   B :      -6.35        0.0
+           ICSP   B :       2.54      -1.27
+            IC2   B :       -4.0       -8.0
+             R5   B :     -0.977        0.0
+            C11   B :     -0.977        0.0
+            C12   B :      0.977        0.0
+NetDegree : 2
+            IC2   B :       -8.0       -1.0
+           PWML   B :       6.35        0.0
+NetDegree : 2
+            IC2   B :       -8.0       -2.5
+           PWMH   B :      -6.35        0.0
+NetDegree : 2
+            IC2   B :       -8.0       -2.0
+           PWMH   B :      -8.89        0.0
+NetDegree : 2
+            IC2   B :       -8.0       -1.5
+           PWML   B :       8.89        0.0
+NetDegree : 3
+            C14   B :     -0.977        0.0
+             F1   B :      -1.95        0.0
+             T1   B :        0.0    -3.8608
+NetDegree : 2
+             X3   B :       1.27        0.0
+            IC6   B :     2.0608     -3.625
+NetDegree : 2
+            IC2   B :       -1.5       -8.0
+            JP2   B :      -3.81      -1.27
+NetDegree : 2
+             X3   B :       3.81        0.0
+            IC6   B :    -0.5392     -3.625
+NetDegree : 2
+            R12   B :     -1.143        0.0
+            IC6   B :    -1.1892     -3.625
+NetDegree : 2
+  COMMUNICATION   B :       1.27        0.0
+            IC2   B :       -8.0        0.5
+NetDegree : 2
+  COMMUNICATION   B :       6.35        0.0
+            IC2   B :        8.0        0.0
+NetDegree : 2
+            IC2   B :        3.5       -8.0
+  COMMUNICATION   B :      -3.81        0.0
+NetDegree : 2
+            IC2   B :        5.0        8.0
+            JP1   B :       8.89       1.27
+NetDegree : 2
+            IC2   B :        5.5        8.0
+            JP1   B :       8.89      -1.27
+NetDegree : 2
+            IC2   B :        6.0        8.0
+            JP1   B :       6.35       1.27
+NetDegree : 2
+            IC2   B :        8.0        6.0
+            JP1   B :       6.35      -1.27
+NetDegree : 2
+            IC2   B :        8.0        5.5
+            JP1   B :       3.81       1.27
+NetDegree : 2
+            IC2   B :        8.0        5.0
+            JP1   B :       3.81      -1.27
+NetDegree : 2
+            IC2   B :        8.0        4.5
+            JP1   B :       1.27       1.27
+NetDegree : 2
+            IC2   B :        8.0        4.0
+            JP1   B :       1.27      -1.27
+NetDegree : 6
+             C6   B :       -2.3     -1.175
+             D1   B :       -2.2        0.0
+            IC4   B :       2.28      -5.95
+          POWER   B :       6.35        0.0
+             C5   B :     -0.977        0.0
+            R10   B :      0.977        0.0
+NetDegree : 4
+            IC6   B :    -3.1392     -3.625
+            C12   B :     -0.977        0.0
+       RESET-EN   B :      0.762        0.0
+       RESET-EN   B :     -0.762        0.0
+NetDegree : 4
+            R10   B :     -0.977        0.0
+             R6   B :      0.977        0.0
+            C13   B :      0.977        0.0
+            IC7   B :      0.635       -2.6
+NetDegree : 2
+            IC2   B :       -8.0       -5.5
+           PWMH   B :      -1.27        0.0
+NetDegree : 3
+             R2   B :      0.977        0.0
+            IC2   B :        2.5       -8.0
+  COMMUNICATION   B :      -8.89        0.0
+NetDegree : 3
+            IC2   B :       -6.0       -8.0
+           PWMH   B :       3.81        0.0
+             R1   B :     -0.977        0.0
+NetDegree : 2
+            IC2   B :       -8.0       -6.0
+           PWMH   B :       1.27        0.0
+NetDegree : 3
+           ICSP   B :        0.0      -1.27
+            IC2   B :       -8.0       -3.5
+            JP2   B :      -8.89       1.27
+NetDegree : 2
+            IC2   B :       -8.0       -3.0
+            JP2   B :      -8.89      -1.27
+NetDegree : 3
+           ICSP   B :      -2.54      -1.27
+            IC2   B :       -8.0       -4.5
+            JP2   B :      -6.35       1.27
+NetDegree : 3
+           ICSP   B :        0.0       1.27
+            IC2   B :       -8.0       -4.0
+            JP2   B :      -6.35      -1.27
+NetDegree : 2
+             X4   B :       1.25      6.985
+             F1   B :       1.95        0.0
+NetDegree : 2
+             X3   B :      -1.27        0.0
+            IC6   B :     1.4108     -3.625
+NetDegree : 2
+            IC2   B :        4.0       -8.0
+  COMMUNICATION   B :      -1.27        0.0
+NetDegree : 2
+  COMMUNICATION   B :       3.81        0.0
+            IC2   B :       -8.0        0.0
+NetDegree : 2
+  COMMUNICATION   B :       8.89        0.0
+            IC2   B :        8.0        0.5
+NetDegree : 2
+             RX   B :     0.6985        0.0
+            IC6   B :    -0.5392      3.625
+NetDegree : 2
+            IC2   B :        8.0       -4.0
+            JP1   B :      -6.35      -1.27
+NetDegree : 2
+            IC2   B :        8.0       -3.5
+            JP1   B :      -6.35       1.27
+NetDegree : 2
+            IC2   B :        8.0       -5.0
+            JP1   B :      -8.89      -1.27
+NetDegree : 2
+            IC2   B :        8.0       -4.5
+            JP1   B :      -8.89       1.27
+NetDegree : 2
+            IC2   B :        8.0       -2.0
+            JP1   B :      -1.27      -1.27
+NetDegree : 2
+            IC2   B :        8.0       -1.5
+            JP1   B :      -1.27       1.27
+NetDegree : 2
+            IC2   B :        8.0       -3.0
+            JP1   B :      -3.81      -1.27
+NetDegree : 2
+            IC2   B :        8.0       -2.5
+            JP1   B :      -3.81       1.27
+NetDegree : 2
+             D1   B :        2.2        0.0
+             X2   B :      1.651    -5.6007
+NetDegree : 2
+            IC2   B :        2.0       -8.0
+            JP2   B :       3.81       1.27
+NetDegree : 2
+            IC2   B :        1.5       -8.0
+            JP2   B :       3.81      -1.27
+NetDegree : 2
+            IC2   B :        1.0       -8.0
+            JP2   B :       1.27       1.27
+NetDegree : 2
+            IC2   B :        0.5       -8.0
+            JP2   B :       1.27      -1.27
+NetDegree : 2
+            IC2   B :        0.0       -8.0
+            JP2   B :      -1.27       1.27
+NetDegree : 2
+            IC2   B :       -0.5       -8.0
+            JP2   B :      -1.27      -1.27
+NetDegree : 2
+            IC2   B :       -1.0       -8.0
+            JP2   B :      -3.81       1.27
+NetDegree : 2
+             X3   B :      -3.81        0.0
+            IC6   B :     2.7108     -3.625
+NetDegree : 2
+             TX   B :    -1.5875        0.0
+             R9   B :     -0.977        0.0
+NetDegree : 3
+           PWMH   B :       8.89        0.0
+            IC2   B :       -5.0        8.0
+             C4   B :     -0.977        0.0
+NetDegree : 2
+            IC2   B :        6.0       -8.0
+            JP2   B :       8.89       1.27
+NetDegree : 4
+          POWER   B :      -3.81        0.0
+            C15   B :      0.977        0.0
+            IC6   B :     3.3608      3.625
+            IC7   B :     -0.635       -2.6
+NetDegree : 2
+            PWR   B :    -1.5875        0.0
+             R8   B :      0.977        0.0
+NetDegree : 2
+              L   B :    -1.5875        0.0
+             R1   B :      0.977        0.0
+NetDegree : 2
+            IC7   B :      1.905        2.6
+            IC7   B :     -1.905       -2.6
+NetDegree : 3
+             Q2   B :      2.413        0.0
+             C3   B :      0.977        0.0
+            IC2   B :       -2.5       -8.0
+NetDegree : 3
+             Q2   B :     -2.413        0.0
+             C2   B :      0.977        0.0
+            IC2   B :       -2.0       -8.0
+NetDegree : 2
+            IC2   B :       -8.0        3.5
+           PWML   B :      -3.81        0.0
+NetDegree : 2
+            IC2   B :       -8.0        3.0
+           PWML   B :      -1.27        0.0
+NetDegree : 3
+            IC2   B :       -8.0        5.5
+           PWML   B :      -8.89        0.0
+            R11   B :      1.143        0.0
+NetDegree : 3
+            IC2   B :       -8.0        5.0
+           PWML   B :      -6.35        0.0
+            R12   B :      1.143        0.0
+NetDegree : 2
+            IC2   B :       -8.0        4.0
+           PWML   B :       3.81        0.0
+NetDegree : 27
+           ICSP   B :      -2.54       1.27
+             C1   B :     -0.977        0.0
+             C7   B :       -2.3     -1.175
+            IC4   B :        0.0       1.35
+          POWER   B :      -1.27        0.0
+            IC2   B :       -6.0        8.0
+            C10   B :     -0.977        0.0
+             C9   B :     -0.977        0.0
+            IC2   B :        4.0        8.0
+            IC2   B :       -8.0        1.5
+             R3   B :     -0.977        0.0
+             R2   B :     -0.977        0.0
+             R5   B :      0.977        0.0
+            IC2   B :       -3.5       -8.0
+            IC2   B :        8.0       -1.0
+            IC6   B :    -1.8392     -3.625
+            IC6   B :     2.0608      3.625
+            IC6   B :     1.4108      3.625
+            C16   B :     -0.977        0.0
+             R7   B :      0.977        0.0
+             R9   B :      0.977        0.0
+            IC7   B :     -1.905        2.6
+            C17   B :      0.977        0.0
+             T1   B :     2.3114    -3.8608
+             R8   B :     -0.977        0.0
+            JP4   B :        0.0        0.0
+            JP3   B :        0.0        0.0
+NetDegree : 2
+             RX   B :    -1.5875        0.0
+             R7   B :     -0.977        0.0
+NetDegree : 43
+           ICSP   B :       2.54       1.27
+             C7   B :        4.0     -1.175
+             C6   B :        4.0     -1.175
+           PWMH   B :       6.35        0.0
+            PWR   B :     0.6985        0.0
+             X2   B :    -3.3528    -2.6035
+             X2   B :      1.651     0.3937
+             S1   B :    -3.2512     2.2606
+             S1   B :     3.2512     2.2606
+            IC4   B :      -2.28      -5.95
+          POWER   B :       1.27        0.0
+          POWER   B :       3.81        0.0
+             C4   B :      0.977        0.0
+             C1   B :      0.977        0.0
+             C2   B :     -0.977        0.0
+             C3   B :     -0.977        0.0
+             C5   B :      0.977        0.0
+            IC2   B :       -8.0        1.0
+             C9   B :      0.977        0.0
+            C10   B :      0.977        0.0
+            IC2   B :       -5.5        8.0
+            IC2   B :        3.5        8.0
+            IC2   B :       -3.0       -8.0
+            IC2   B :        8.0       -0.5
+            C11   B :      0.977        0.0
+            IC6   B :    -1.8392      3.625
+            IC6   B :    -2.4892      3.625
+            IC6   B :     0.1108     -3.625
+            IC6   B :     2.7108      3.625
+            IC6   B :     0.7608      3.625
+            C14   B :      0.977        0.0
+            C15   B :     -0.977        0.0
+             X4   B :       1.25      4.985
+             X4   B :       -6.0      2.275
+             X4   B :        6.0      2.275
+            C16   B :      0.977        0.0
+              L   B :     0.6985        0.0
+             R6   B :     -0.977        0.0
+            C13   B :     -0.977        0.0
+            IC7   B :      1.905       -2.6
+            C17   B :     -0.977        0.0
+            JP6   B :        0.0        0.0
+            JP5   B :        0.0        0.0
+NetDegree : 2
+           ADCL   B :       6.35        0.0
+            IC2   B :       -1.5        8.0
+NetDegree : 2
+           ADCL   B :       8.89        0.0
+            IC2   B :       -1.0        8.0
+NetDegree : 2
+           ADCL   B :       1.27        0.0
+            IC2   B :       -2.5        8.0
+NetDegree : 2
+           ADCL   B :       3.81        0.0
+            IC2   B :       -2.0        8.0
+NetDegree : 2
+           ADCL   B :      -3.81        0.0
+            IC2   B :       -3.5        8.0
+NetDegree : 2
+           ADCL   B :      -1.27        0.0
+            IC2   B :       -3.0        8.0
+NetDegree : 2
+           ADCL   B :      -8.89        0.0
+            IC2   B :       -4.5        8.0
+NetDegree : 2
+           ADCL   B :      -6.35        0.0
+            IC2   B :       -4.0        8.0
+NetDegree : 2
+           ADCH   B :      -8.89        0.0
+            IC2   B :       -0.5        8.0
+NetDegree : 2
+           ADCH   B :      -6.35        0.0
+            IC2   B :        0.0        8.0
+NetDegree : 2
+            IC2   B :       -8.0       -5.0
+           PWMH   B :      -3.81        0.0
+NetDegree : 2
+            IC2   B :       -8.0        6.0
+           PWML   B :       1.27        0.0
+NetDegree : 2
+            JP2   B :       8.89      -1.27
+            IC2   B :        8.0        3.5
+NetDegree : 2
+            JP2   B :       6.35      -1.27
+            IC2   B :        8.0       -6.0
+NetDegree : 2
+            JP2   B :       6.35       1.27
+            IC2   B :        8.0       -5.5
+NetDegree : 2
+            R11   B :     -1.143        0.0
+            IC6   B :    -3.7892     -3.625
+NetDegree : 2
+            IC6   B :     4.0108      3.625
+             X4   B :      -1.25      6.985
+NetDegree : 2
+            IC6   B :     4.6608      3.625
+             X4   B :      -1.25      4.985
+NetDegree : 2
+           ADCH   B :       6.35        0.0
+            IC2   B :        2.5        8.0
+NetDegree : 2
+           ADCH   B :       8.89        0.0
+            IC2   B :        3.0        8.0
+NetDegree : 2
+             TX   B :     0.6985        0.0
+            IC6   B :     0.1108      3.625
+NetDegree : 2
+           ADCH   B :      -3.81        0.0
+            IC2   B :        0.5        8.0
+NetDegree : 2
+           ADCH   B :      -1.27        0.0
+            IC2   B :        1.0        8.0
+NetDegree : 2
+           ADCH   B :       1.27        0.0
+            IC2   B :        1.5        8.0
+NetDegree : 2
+           ADCH   B :       3.81        0.0
+            IC2   B :        2.0        8.0
+NetDegree : 3
+             R3   B :      0.977        0.0
+            IC2   B :        3.0       -8.0
+  COMMUNICATION   B :      -6.35        0.0
+NetDegree : 3
+            IC7   B :      0.635        2.6
+            IC7   B :     -0.635        2.6
+             T1   B :    -2.3114    -3.8608
